@@ -1,1 +1,5 @@
-# cs101-version-control-829
+# My CS Profile
+
+## About Me
+- Name: Natapron kerdchoo
+- Major: Computer Science
